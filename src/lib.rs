@@ -1,3 +1,4 @@
+pub mod t674;
 pub mod t10_1;
 pub mod t51_me;
 pub mod t70_me;
